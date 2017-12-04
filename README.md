@@ -30,8 +30,9 @@
 ### [ヤフー株式会社](https://www.yahoo.co.jp) (Yahoo! JAPAN)
 
 - オブジェクトストレージ [Dragon](https://techblog.yahoo.co.jp/architecture/dragon-object-storage-architecture/)
-    - Amazon S3互換のWeb APIを実装している、Yahoo! JAPAN独自の分散オブジェクトストレージシステムです。
+    - Amazon S3互換のWeb APIを実装している、Yahoo! JAPAN独自の分散オブジェクトストレージシステムです。
     - 国内2カ所のデータセンターで稼働しており、現在までに合計で200億個以上、データサイズにして11ペタバイト（物理データサイズでは33ペタバイト）のオブジェクトを格納しています。
+    
 - サービス間の相互送客用ターゲッティング広告選定プラットフォーム
     - サービス間の相互送客を実現するプラットフォームをGo言語を用いて実装しています。
 
