@@ -54,4 +54,4 @@ Yahoo! JAPANは、100以上のサービスを提供していて、特にパフ�
 #### 採用情報
 
 株式会社エウレカでは、大規模トラフィックに挑戦したいGopherを募集しています！
-- https://https://recruit.eure.jp/
+- https://recruit.eure.jp/
