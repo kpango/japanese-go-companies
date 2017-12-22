@@ -83,3 +83,20 @@ Yahoo! JAPANは、100以上のサービスを提供していて、特にパフ�
 
 AWA株式会社ではAPI開発からインフラ構築まで幅広く挑戦したいGopherを募集しています！
 - https://mf.awa.fm/recruit
+
+
+### [株式会社Nagisa](https://nagisa-inc.jp/)
+
+- [101 LIVE！](https://itunes.apple.com/us/app/101-live-%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96/id1223833186?mt=8)
+    - 国内初のペアでの同時配信生放送アプリ「101 LIVE!」のバックエンド側をGo言語で実装しています。 まだまだ始まったばかりのサービスですがペアでの生配信という新しい領域にGo言語を用いて挑戦しています。 
+
+- [マンガZERO](https://manga-zero.coroco3.com/)
+    - 国内最大級の無料マンガアプリでPHPからGo言語に乗り換えた経緯があります。
+    - こちらのサービスでもGo言語を使って開発・運用してきた経験があり、以下の社内ブログで幾つか知見を紹介しています。
+    [golangを使って開発したWebAPIを1年半運用して改善してきたこと-月間20億PVのマンガサービス開発の裏側](https://blog.nagisa-inc.jp/archives/1134)
+
+#### 採用情報
+株式会社NagisaではGoを使って新規サービスを開発していきたい方、大規模サービスのトラフィックを迅速に捌いていきたい方など 様々なGopherを募集しています！
+
+- https://recruit.nagisa-inc.jp/
+- https://www.wantedly.com/projects/177463
