@@ -35,6 +35,10 @@
 - サービス間の相互送客用ターゲッティング広告選定プラットフォーム
     - サービス間の相互送客を実現するプラットフォームをGo言語を用いて実装しています。
 
+- 高次元ベクトルデータ検索技術 [NGT](https://techblog.yahoo.co.jp/lab/searchlab/ngt-1.0.0/)
+    - NGTをGoから利用できるようにしたGoバインディング [gongt](https://github.com/yahoojapan/gongt)
+    - NGTをAPI経由(REST / gRPC)で利用できるようにしたNGTのサーバー実装 [ngtd](https://github.com/yahoojapan/ngtd)
+
 Yahoo! JAPANは、100以上のサービスを提供していて、特にパフォーマンスと安定性が求められる領域において、世界的に実績のあるGo言語を利用し、大量のトラフィックを処理する高速なプラットフォームの構築を行なっています。
 
 #### 採用情報
