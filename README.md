@@ -104,3 +104,15 @@ AWA株式会社ではAPI開発からインフラ構築まで幅広く挑戦し�
 
 - https://recruit.nagisa-inc.jp/
 - https://www.wantedly.com/projects/177463
+
+
+### [GROOVE X 株式会社](http://www.groove-x.com/)
+
+`ROBOT x LOVE = LOVOT` をテーマに、人に寄り添うロボット「LOVOT」を開発しています。
+外側からLOVOTを支えるクラウドのみならず、LOVOTの内部でもGoの能力を余すことなく活用しています。
+
+今までとは一味違うGoを書きたくありませんか？ぜひ私たちと一緒にLOVOTを作り上げましょう！
+
+- [Wantedly](https://www.wantedly.com/companies/groove-x)
+- [Facebook](https://www.facebook.com/GROOVEX.Robot/)
+
