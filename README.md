@@ -108,7 +108,7 @@ AWA株式会社ではAPI開発からインフラ構築まで幅広く挑戦し�
 
 ### [GROOVE X 株式会社](http://www.groove-x.com/)
 
-`ROBOT x LOVE = LOVOT` をテーマに、人に寄り添うロボット「LOVOT」を開発しています。
+`ROBOT x LOVE = LOVOT` をテーマに、人に寄り添うロボット [LOVOT](http://www.groove-x.com/#lovot) を開発しています。
 外側からLOVOTを支えるクラウドのみならず、LOVOTの内部でもGoの能力を余すことなく活用しています。
 
 今までとは一味違うGoを書きたくありませんか？ぜひ私たちと一緒にLOVOTを作り上げましょう！
