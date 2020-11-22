@@ -116,3 +116,14 @@ AWA株式会社ではAPI開発からインフラ構築まで幅広く挑戦し�
 - [Wantedly](https://www.wantedly.com/companies/groove-x)
 - [Facebook](https://www.facebook.com/GROOVEX.Robot/)
 
+### [フラー株式会社](https://fuller-inc.com/)
+
+フラーは『世界一、ヒトを惹きつける会社を創る。』というユメに挑戦し続け、アプリとデータをテーマに事業を展開するIT企業です。柏の葉キャンパスに本社を構え、新潟にも拠点があります。アプリ分析支援事業と共創事業の両方でGoを採用しています。
+
+
+#### 採用情報
+
+フラーで働いてみたいサーバーサイドエンジニアの方を募集しています！
+- https://fuller-inc.com/career/
+
+
